@@ -23,6 +23,10 @@
 # misc
 .DS_Store
 *.pem
+app/generated
+prisma/
+pnpm-workspace.yaml
+pnpm-lock.yaml
 
 # debug
 npm-debug.log*
